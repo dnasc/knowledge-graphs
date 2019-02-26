@@ -1,4 +1,5 @@
-# Knowledge Graph Reasoning and Learning </br> Paper Collection
+# Knowledge Graph Reasoning and Learning </br> Bibliography
+
 **Improved Knowledge Graph Embedding using Background Taxonomic Information**</br>
 Date: 1/2019</br>
 Venue: Conference on Artificial Intelligence</br>
