@@ -1,11 +1,10 @@
 # Knowledge Graph Reasoning and Learning Papers
-
 **Improved Knowledge Graph Embedding using Background Taxonomic Information**</br>
 Date: 1/2019</br>
 Venue: Conference on Artificial Intelligence</br>
 Authors: Bahare Fatemi, Siamak Ravanbakhsh, David Poole</br>
 Code: </br>
-Datasets: fb15k, sports-and-location, wn18</br>
+Datasets: [fb15k](datasets.md#fb15k), [sports-and-location](datasets.md#sports-and-location), [wn18](datasets.md#wn18)</br>
 Metrics: hits@1, hits@10, hits@3, mean recipocral ranking</br>
 Available at: http://www.aclweb.org/anthology/P18-1011</br></br>
 
@@ -14,7 +13,7 @@ Date: 12/2018</br>
 Venue: Neural Information Processing Systems</br>
 Authors: William L. Hamilton, Payal Bajaj, Marinka Zitnik, Dan Jurafsky, Jure Leskovec</br>
 Code: https://github.com/williamleif/graphqembed</br>
-Datasets: bio, reddit</br>
+Datasets: [bio](datasets.md#bio), [reddit](datasets.md#reddit)</br>
 Metrics: area under the roc curve, average percentile rank</br>
 Available at: https://arxiv.org/abs/1806.01445</br></br>
 
@@ -23,7 +22,7 @@ Date: 12/2018</br>
 Venue: Advances in Neural Information Processing Systems</br>
 Authors: Seyed Mehran Kazemi, David Poole</br>
 Code: https://github.com/Mehran-k/SimplE</br>
-Datasets: fb15k, wn18</br>
+Datasets: [fb15k](datasets.md#fb15k), [wn18](datasets.md#wn18)</br>
 Metrics: hits@k, mean recipocral ranking</br>
 Available at: https://arxiv.org/abs/1802.04868</br></br>
 
@@ -33,7 +32,7 @@ Venue: Journal of Web Semantics</br>
 Authors: Yunpu Maa, Volker Tresp, Erik A. Daxberger</br>
 Code: </br>
 Datasets: </br>
-Metrics: hits@1, hits@10, hits@3, mean recipocral Ranking</br>
+Metrics: hits@1, hits@10, hits@3, mean recipocral ranking</br>
 Available at: https://www.sciencedirect.com/science/article/pii/S1570826818300702</br></br>
 
 **One-Shot Relational Learning for Knowledge Graphs**</br>
@@ -41,7 +40,7 @@ Date: 11/2018</br>
 Venue: Conference on Empirical Methods in Natural Language Processing</br>
 Authors: Wenhan Xiong, Mo Yu, Shiyu Chang, Xiaoxiao Guo, William Yang Wang</br>
 Code: https://github.com/xwhan/One-shot-Relational-Learning</br>
-Datasets: nell-one, wiki-one</br>
+Datasets: [nell-one](datasets.md#nell-one), [wiki-one](datasets.md#wiki-one)</br>
 Metrics: hits@1, hits@10, hits@5, mean recipocral rank</br>
 Available at: https://aclanthology.info/papers/D18-1223/d18-1223</br></br>
 
@@ -50,8 +49,8 @@ Date: 11/2018</br>
 Venue: None</br>
 Authors: Junyuan Shang, Cao Xiao, Cao Xiao, Cao Xiao, Jimeng Sun</br>
 Code: https://github.com/sjy1203/GAMENet</br>
-Datasets: ddi, mimic</br>
-Metrics: F1, average precision, average rescall, jaccard, precision recall area under the curve</br>
+Datasets: [ddi](datasets.md#ddi), [mimic](datasets.md#mimic)</br>
+Metrics: f1, average precision, average rescall, jaccard, precision recall area under the curve</br>
 Available at: https://arxiv.org/abs/1809.01852</br></br>
 
 **Learning Sequence Encoders for Temporal Knowledge Graph Completion**</br>
@@ -59,7 +58,7 @@ Date: 11/2018</br>
 Venue: Conference on Empirical Methods in Natural Language Processing</br>
 Authors: Alberto Garcı́a-Durán, Sebastijan Dumančić, Mathias Niepert</br>
 Code: </br>
-Datasets: dbpedia15k, fb15k, icews05-15, yago15k</br>
+Datasets: [dbpedia15k](datasets.md#dbpedia15k), [fb15k](datasets.md#fb15k), [icews05-15](datasets.md#icews05-15), [yago15k](datasets.md#yago15k)</br>
 Metrics: hits@1, hits@10, mean rank, mean recipocral ranking</br>
 Available at: https://aclanthology.info/papers/D18-1516/d18-1516</br></br>
 
@@ -68,7 +67,7 @@ Date: 10/2018</br>
 Venue: Conference on Empirical Methods in Natural Language Processing</br>
 Authors: Pouya Pezeshkpour, Liyan Chen, Sameer Singh</br>
 Code: https://github.com/pouyapez/mkbe</br>
-Datasets: movielens-100k, yago-10</br>
+Datasets: [movielens-100k](datasets.md#movielens-100k), [yago-10](datasets.md#yago-10)</br>
 Metrics: hits@1, hits@2, mean recipocral ranking, root mean square error</br>
 Available at: https://aclanthology.info/papers/D18-1359/d18-1359</br></br>
 
@@ -77,7 +76,7 @@ Date: 6/2018</br>
 Venue: SIGMOD</br>
 Authors: Gensheng Zhang, Damian Jimenez, Chengkai Li</br>
 Code: </br>
-Datasets: oscarwinners, wcgoals</br>
+Datasets: [oscarwinners](datasets.md#oscarwinners), [wcgoals](datasets.md#wcgoals)</br>
 Metrics: </br>
 Available at: https://dl.acm.org/citation.cfm?id=3183730</br></br>
 
@@ -86,7 +85,7 @@ Date: 6/2018</br>
 Venue: European Semantic Web Conference</br>
 Authors: Michael Schlichtkrull, Thomas N. Kipf, Peter Bloem, Rianne van den Berg, Ivan Titov, Max Welling</br>
 Code: https://github.com/tkipf/relational-gcn</br>
-Datasets: fb15-237, fb15k, wn18</br>
+Datasets: [fb15-237](datasets.md#fb15-237), [fb15k](datasets.md#fb15k), [wn18](datasets.md#wn18)</br>
 Metrics: accuracy, hits@1, hits@2, hits@3, mean recipocral rank</br>
 Available at: https://link.springer.com/chapter/10.1007/978-3-319-93417-4_38</br></br>
 
@@ -95,7 +94,7 @@ Date: 4/2018</br>
 Venue: Transactions of the Association for Computational Linguistics</br>
 Authors: Hanie Sedghi, Ashish Sabharwal</br>
 Code: https://github.com/yuyuz/MetaQA</br>
-Datasets: aristo-tuple-kb</br>
+Datasets: [aristo-tuple-kb](datasets.md#aristo-tuple-kb)</br>
 Metrics: accuracy of the top k triples, precision-recall curves</br>
 Available at: https://aclanthology.info/papers/Q18-1015/q18-1015</br></br>
 
@@ -104,7 +103,7 @@ Date: 4/2018</br>
 Venue: International Conference on Learning Representations</br>
 Authors: Rajarshi Das, Shehzaad Dhuliawala, Manzil Zaheer, Luke Vilnis, Ishan Durugkar, Akshay Krishnamurthy, Alex Smola, Andrew McCallum</br>
 Code: https://github.com/shehzaadzd/MINERVA</br>
-Datasets: alyawarra-kinship, countries, fb15k-237, nell-995, unified-medical-language-systems, wikimovies, wn18rr</br>
+Datasets: [alyawarra-kinship](datasets.md#alyawarra-kinship), [countries](datasets.md#countries), [fb15k-237](datasets.md#fb15k-237), [nell-995](datasets.md#nell-995), [unified-medical-language-systems](datasets.md#unified-medical-language-systems), [wikimovies](datasets.md#wikimovies), [wn18rr](datasets.md#wn18rr)</br>
 Metrics: accuracy, area under precision-recall curve, hits@1, hits@10, hits@3</br>
 Available at: https://arxiv.org/abs/1711.05851</br></br>
 
@@ -113,7 +112,7 @@ Date: 3/2018</br>
 Venue: None</br>
 Authors: Daniel Oñoro-Rubio, Mathias Niepert, Alberto García-Durán, Roberto González-Sánchez, Roberto J. López-Sastre</br>
 Code: </br>
-Datasets: fb15k, imagegraph</br>
+Datasets: [fb15k](datasets.md#fb15k), [imagegraph](datasets.md#imagegraph)</br>
 Metrics: hits@1, hits@10, mean recipocral ranking, median of ranks</br>
 Available at: https://arxiv.org/abs/1709.02314</br></br>
 
@@ -131,7 +130,7 @@ Date: 2/2018</br>
 Venue: AAAI Conference on Artificial Intelligence</br>
 Authors: Yuyu Zhang, Hanjun Dai, Zornitsa Kozareva, Alexander J. Smola, Le Song</br>
 Code: </br>
-Datasets: metaqa</br>
+Datasets: [metaqa](datasets.md#metaqa)</br>
 Metrics: accuracy, hits@1</br>
 Available at: https://arxiv.org/abs/1709.04071</br></br>
 
@@ -140,7 +139,7 @@ Date: 2/2018</br>
 Venue: Conference on Artificial Intelligence</br>
 Authors: Tim Dettmers, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel</br>
 Code: https://github.com/TimDettmers/ConvE</br>
-Datasets: countries, fb15k, fb15k-237, wn18, wn18rr, yago3-10</br>
+Datasets: [countries](datasets.md#countries), [fb15k](datasets.md#fb15k), [fb15k-237](datasets.md#fb15k-237), [wn18](datasets.md#wn18), [wn18rr](datasets.md#wn18rr), [yago3-10](datasets.md#yago3-10)</br>
 Metrics: hits@1, hits@10, hits@3, mean recipocral ranking</br>
 Available at: https://arxiv.org/abs/1707.01476</br></br>
 
@@ -149,7 +148,7 @@ Date: 12/2017</br>
 Venue: Neural Information Processing Systems</br>
 Authors: Fan Yang, Zhilin Yang, William W. Cohen</br>
 Code: https://github.com/fanyangxyz/Neural-LP</br>
-Datasets: alyawarra-kinship, fb15k, fb15kselected, umls, wn18</br>
+Datasets: [alyawarra-kinship](datasets.md#alyawarra-kinship), [fb15k](datasets.md#fb15k), [fb15kselected](datasets.md#fb15kselected), [umls](datasets.md#umls), [wn18](datasets.md#wn18)</br>
 Metrics: accuracy, hits@10, mean recipocral ranking</br>
 Available at: https://arxiv.org/abs/1702.08367</br></br>
 
@@ -158,7 +157,7 @@ Date: 9/2017</br>
 Venue: Conference on Empirical Methods in Natural Language Processing</br>
 Authors: Wenhan Xiong, Thien Hoang, William Yang Wang</br>
 Code: https://github.com/xwhan/DeepPath.</br>
-Datasets: fb15k-237-2, nell-995</br>
+Datasets: [fb15k-237-2](datasets.md#fb15k-237-2), [nell-995](datasets.md#nell-995)</br>
 Metrics: mean average precision</br>
 Available at: https://aclanthology.info/papers/D17-1060/d17-1060</br></br>
 
@@ -167,7 +166,7 @@ Date: 8/2017</br>
 Venue: International Conference on Machine Learning</br>
 Authors: Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song</br>
 Code: https://github.com/rstriv/Know-Evolve</br>
-Datasets: gdelt, icews</br>
+Datasets: [gdelt](datasets.md#gdelt), [icews](datasets.md#icews)</br>
 Metrics: hits@10, mean absolute ranking, standard deviation for mean absolute ranking</br>
 Available at: http://proceedings.mlr.press/v70/</br></br>
 
@@ -176,7 +175,7 @@ Date: 4/2017</br>
 Venue: International Conference on World Wide Web</br>
 Authors: Denis Lukovnikov, Asja Fischer, Jens Lehmann, Sören Auer</br>
 Code: https://github.com/WDAqua/teafacto</br>
-Datasets: simple-questions</br>
+Datasets: [simple-questions](datasets.md#simple-questions)</br>
 Metrics: accuracy</br>
 Available at: https://dl.acm.org/citation.cfm?id=3052675</br></br>
 
@@ -185,7 +184,7 @@ Date: 4/2017</br>
 Venue: International Conference on Learning Representations</br>
 Authors: Thomas N. Kipf, Max Welling</br>
 Code: </br>
-Datasets: citeseer, cora, nell, pubmed</br>
+Datasets: [citeseer](datasets.md#citeseer), [cora](datasets.md#cora), [nell](datasets.md#nell), [pubmed](datasets.md#pubmed)</br>
 Metrics: accuracy</br>
 Available at: https://arxiv.org/abs/1609.02907</br></br>
 
@@ -194,7 +193,7 @@ Date: 2/2017</br>
 Venue: International Conference on Web Search and Data Mining</br>
 Authors: Luis Galárraga, Simon Razniewski, Antoine Amarilli, Fabian M. Suchanek</br>
 Code: http://luisgalarraga.de/completeness-in-kbs/</br>
-Datasets: wikidata, yago3</br>
+Datasets: [wikidata](datasets.md#wikidata), [yago3](datasets.md#yago3)</br>
 Metrics: precision-oracle, recall-oracle</br>
 Available at: https://dl.acm.org/citation.cfm?id=3018739</br></br>
 
@@ -203,7 +202,7 @@ Date: 2/2017</br>
 Venue: Conference on Artificial Intelligence</br>
 Authors: Melisachew Wudage Chekol, Giuseppe Pirrò, Joerg Schoenfisch, Heiner Stuckenschmidt</br>
 Code: </br>
-Datasets: footballdb, wikidata</br>
+Datasets: [footballdb](datasets.md#footballdb), [wikidata](datasets.md#wikidata)</br>
 Metrics: precision, recall</br>
 Available at: https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14730</br></br>
 
@@ -212,7 +211,7 @@ Date: 2/2016</br>
 Venue: Conference on Artificial Intelligence</br>
 Authors: Maximilian Nickel, Lorenzo Rosasco, Tomaso Poggio</br>
 Code: https://github.com/mnick/holographic-embeddings</br>
-Datasets: fb15k, win18</br>
+Datasets: [fb15k](datasets.md#fb15k), [win18](datasets.md#win18)</br>
 Metrics: area under the precision-recall curve, hits@1, hits@3, hits@5, mean reciprocal rank</br>
 Available at: https://dl.acm.org/citation.cfm?id=3016172</br></br>
 
@@ -221,7 +220,7 @@ Date: 9/2015</br>
 Venue: Conference on Empirical Methods in Natural Language Processing</br>
 Authors: Kelvin Gu, John Miller, Percy Liang</br>
 Code: https://worksheets.codalab.org/worksheets/0xfcace41fdeec45f3bc6ddf31107b829f/</br>
-Datasets: freebase-socher, wordnet-socher</br>
+Datasets: [freebase-socher](datasets.md#freebase-socher), [wordnet-socher](datasets.md#wordnet-socher)</br>
 Metrics: (mean quantile) normalized mean rank, hits@10</br>
 Available at: https://aclanthology.info/papers/D15-1038/d15-1038</br></br>
 
@@ -230,7 +229,7 @@ Date: 12/2013</br>
 Venue: International Conference on Neural Information Processing Systems</br>
 Authors: Richard Socher, Danqi Chen, Christopher D. Manning, Andrew Y. Ng</br>
 Code: </br>
-Datasets: freebase-socher, wordnet-socher</br>
+Datasets: [freebase-socher](datasets.md#freebase-socher), [wordnet-socher](datasets.md#wordnet-socher)</br>
 Metrics: accuracy</br>
 Available at: https://dl.acm.org/citation.cfm?id=2999715</br></br>
 
@@ -239,7 +238,7 @@ Date: 12/2013</br>
 Venue: Conference on Neural Information Processing Systems</br>
 Authors: Antoine Bordes, Nicolas Usunier, Alberto Garcia-Durán, Jason Weston, Oksana Yakhnenko</br>
 Code: https://everest.hds.utc.fr/doku.php</br>
-Datasets: fb15k, fb1M, wn18</br>
+Datasets: [fb15k](datasets.md#fb15k), [fb1m](datasets.md#fb1m), [wn18](datasets.md#wn18)</br>
 Metrics: hits@10, mean rank</br>
 Available at: https://dl.acm.org/citation.cfm?id=2999923</br></br>
 
@@ -248,7 +247,7 @@ Date: 8/2011</br>
 Venue: Conference on Artificial Intelligence</br>
 Authors: Antoine Bordes, Jason Weston, Ronan Collobert, Yoshua Bengio</br>
 Code: </br>
-Datasets: freebase1, wordnet1</br>
+Datasets: [freebase1](datasets.md#freebase1), [wordnet1](datasets.md#wordnet1)</br>
 Metrics: hits@10, ranking</br>
 Available at: https://dl.acm.org/citation.cfm?id=2900470</br></br>
 
@@ -257,7 +256,7 @@ Date: 7/2011</br>
 Venue: Conference on Empirical Methods in Natural Language Processing</br>
 Authors: Ni Lao, Tom Mitchell, William W. Cohen</br>
 Code: https://noon99jaki.github.io/</br>
-Datasets: nellv165</br>
+Datasets: [nellv165](datasets.md#nellv165)</br>
 Metrics: mean recipocral rank, precision@10, precision@100, precision@1000</br>
 Available at: https://dl.acm.org/citation.cfm?id=2145494</br></br>
 
