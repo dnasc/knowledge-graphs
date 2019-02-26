@@ -1,10 +1,10 @@
 # Knowledge Graph Reasoning and Learning Papers
 Ps.You may also take a look at the following complementary lists:
-<r>- [Dynamic Knowledge Graph Completion](https://github.com/woojeongjin/dynamic-KG)
+</br>- [Dynamic Knowledge Graph Completion](https://github.com/woojeongjin/dynamic-KG)
 - [Knowledge Graph](https://github.com/shaoxiongji/knowledge-graph-papers)
 - [Must-read papers on KRL/KE](https://github.com/thunlp/KRLPapers)
 - [Must-read papers on NRL/NE](https://github.com/thunlp/NRLPapers)
-- [Relational Learning](https://github.com/dnasc/Relational-Learning)
+- [Relational Learning](https://github.com/dnasc/Relational-Learning)</br></br>
 **Improved Knowledge Graph Embedding using Background Taxonomic Information**</br>
 Date: 1/2019</br>
 Venue: Conference on Artificial Intelligence</br>
