@@ -1,4 +1,4 @@
-# Knowledge Graph Reasoning and Learning </br> Bibliography
+# Knowledge Graph Reasoning and Learning Papers
 
 **Improved Knowledge Graph Embedding using Background Taxonomic Information**</br>
 Date: 1/2019</br>
